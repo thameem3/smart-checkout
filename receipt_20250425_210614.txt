@@ -1,0 +1,18 @@
+SMART CHECKOUT RECEIPT
+Date: 2025-04-25 21:06:14.572567
+------------------------------
+Cell phone - Rs.1000
+Cell phone - Rs.1000
+Laptop - Rs.50000
+Chair - Rs.1200
+Laptop - Rs.50000
+Cell phone - Rs.1000
+------------------------------
+Cell phone x3 = Rs.3000
+Laptop x2 = Rs.100000
+Chair x1 = Rs.1200
+------------------------------
+Total: ₹104200
+Thank you!
+
+Scan the QR to Pay: payment_qr_20250425_210632.png

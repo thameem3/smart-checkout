@@ -1,0 +1,20 @@
+SMART CHECKOUT RECEIPT
+Date: 2025-04-25 20:25:24.730574
+------------------------------
+Cell phone - Rs.1000
+Remote - Rs.150
+Cell phone - Rs.1000
+Remote - Rs.150
+Bottle - Rs.20
+Cell phone - Rs.1000
+Teddy bear - Rs.300
+------------------------------
+Cell phone x3 = Rs.3000
+Remote x2 = Rs.300
+Bottle x1 = Rs.20
+Teddy bear x1 = Rs.300
+------------------------------
+Total: ₹3620
+Thank you!
+
+Scan the QR to Pay: payment_qr_20250425_202554.png

@@ -1,0 +1,20 @@
+SMART CHECKOUT RECEIPT
+Date: 2025-04-20 17:55:38.994124
+------------------------------
+Cell phone - Rs.1000
+Toothbrush - Rs.15
+Cup - Rs.25
+Cell phone - Rs.1000
+Sink - Rs.2500
+Cell phone - Rs.1000
+Cell phone - Rs.1000
+------------------------------
+Cell phone x4 = Rs.4000
+Toothbrush x1 = Rs.15
+Cup x1 = Rs.25
+Sink x1 = Rs.2500
+------------------------------
+Total: ₹6540
+Thank you!
+
+Scan the QR to Pay: payment_qr_20250420_175611.png

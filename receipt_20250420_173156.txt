@@ -1,0 +1,26 @@
+SMART CHECKOUT RECEIPT
+Date: 2025-04-20 17:31:56.044086
+------------------------------
+Banana - Rs.10
+Sink - Rs.2500
+Banana - Rs.10
+Sink - Rs.2500
+Banana - Rs.10
+Toothbrush - Rs.15
+Sink - Rs.2500
+Banana - Rs.10
+Sink - Rs.2500
+Banana - Rs.10
+Banana - Rs.10
+Banana - Rs.10
+Sink - Rs.2500
+Cell phone - Rs.1000
+Banana - Rs.10
+------------------------------
+Banana x8 = Rs.80
+Sink x5 = Rs.12500
+Toothbrush x1 = Rs.15
+Cell phone x1 = Rs.1000
+------------------------------
+Total: ₹13595
+Thank you!

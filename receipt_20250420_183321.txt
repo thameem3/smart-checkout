@@ -1,0 +1,27 @@
+SMART CHECKOUT RECEIPT
+Date: 2025-04-20 18:33:21.451758
+------------------------------
+Cell phone - Rs.1000
+Donut - Rs.40
+Remote - Rs.150
+Remote - Rs.150
+Cell phone - Rs.1000
+Toothbrush - Rs.15
+Cell phone - Rs.1000
+Sink - Rs.2500
+Cell phone - Rs.1000
+Chair - Rs.1200
+Toothbrush - Rs.15
+Remote - Rs.150
+------------------------------
+Cell phone x4 = Rs.4000
+Donut x1 = Rs.40
+Remote x3 = Rs.450
+Toothbrush x2 = Rs.30
+Sink x1 = Rs.2500
+Chair x1 = Rs.1200
+------------------------------
+Total: ₹8220
+Thank you!
+
+Scan the QR to Pay: payment_qr_20250420_183353.png

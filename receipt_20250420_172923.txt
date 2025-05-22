@@ -1,0 +1,11 @@
+SMART CHECKOUT RECEIPT
+Date: 2025-04-20 17:29:23.296610
+------------------------------
+Chair - Rs.1200
+Toothbrush - Rs.15
+Cell phone - Rs.1000
+Remote - Rs.150
+Laptop - Rs.50000
+------------------------------
+Total: ₹52365
+Thank you!

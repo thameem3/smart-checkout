@@ -1,0 +1,26 @@
+SMART CHECKOUT RECEIPT
+Date: 2025-04-26 22:12:11.217982
+------------------------------
+Bottle - Rs.20
+Cup - Rs.25
+Bottle - Rs.20
+Cup - Rs.25
+Cell phone - Rs.1000
+Bottle - Rs.20
+Cell phone - Rs.1000
+Cup - Rs.25
+Bottle - Rs.20
+Cup - Rs.25
+Bottle - Rs.20
+Cell phone - Rs.1000
+Cup - Rs.25
+Bottle - Rs.20
+------------------------------
+Bottle x6 = Rs.120
+Cup x5 = Rs.125
+Cell phone x3 = Rs.3000
+------------------------------
+Total: ₹3245
+Thank you!
+
+Scan the QR to Pay: payment_qr_20250426_221226.png

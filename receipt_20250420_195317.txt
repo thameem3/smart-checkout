@@ -1,0 +1,26 @@
+SMART CHECKOUT RECEIPT
+Date: 2025-04-20 19:53:17.416995
+------------------------------
+Cell phone - Rs.1000
+Cell phone - Rs.1000
+Banana - Rs.10
+Remote - Rs.150
+Banana - Rs.10
+Remote - Rs.150
+Banana - Rs.10
+Bottle - Rs.20
+Cell phone - Rs.1000
+Cup - Rs.25
+Book - Rs.50
+------------------------------
+Cell phone x3 = Rs.3000
+Banana x3 = Rs.30
+Remote x2 = Rs.300
+Bottle x1 = Rs.20
+Cup x1 = Rs.25
+Book x1 = Rs.50
+------------------------------
+Total: ₹3425
+Thank you!
+
+Scan the QR to Pay: payment_qr_20250420_195343.png
