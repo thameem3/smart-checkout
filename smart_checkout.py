@@ -115,3 +115,8 @@ with open(receipt_file, "a", encoding="utf-8") as f:
 # Cleanup
 cap.release()
 cv2.destroyAllWindows()
+
+
+#new things are added in the file so check it and corret it
+cap.release()
+
